@@ -7,7 +7,7 @@ metadata:
 spec:
   template:
     spec:
-      repository: antonputra/lesson-089
+      repository: Ezekielhng200483/hng_boilerplate_nextjs
       labels:
         - my-custom-runner
       env: []

@@ -5,5 +5,5 @@ metadata:
   name: k8s-single-runner
   namespace: actions
 spec:
-  repository: antonputra/lesson-089
+  repository: Ezekielhng200483/hng_boilerplate_nextjs
   env: []

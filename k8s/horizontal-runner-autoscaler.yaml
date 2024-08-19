@@ -13,4 +13,4 @@ spec:
   metrics:
   - type: TotalNumberOfQueuedAndInProgressWorkflowRuns
     repositoryNames:
-    - antonputra/lesson-089
+    - Ezekielhng200483/hng_boilerplate_nextjs
